@@ -1,5 +1,5 @@
 # SudokuWizard
-### A command-line application developed using C++ that can solve Sudoku puzzles using the Backtracking technique. The program takes the unsolved grid as input and provides the solved grid as output.
+A command-line application developed using C++ that can solve Sudoku puzzles using the Backtracking technique. The program takes the unsolved grid as input and provides the solved grid as output.
 
 # Implementation:
 - Find an empty cell (cell with a value of 0).
